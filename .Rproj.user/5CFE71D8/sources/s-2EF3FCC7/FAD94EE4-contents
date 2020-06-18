@@ -1,0 +1,8 @@
+
+makeCacheMatrix=(matrix(c(5,6,7,8),2,2))
+
+print(makeCacheMatrix)
+
+cachesolve= solve(makeCacheMatrix)
+
+print(cachesolve)
